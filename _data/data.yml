@@ -9,7 +9,7 @@ sidebar:
   # Profile information
   name: Alfredo Alonso Alcaraz Silva # Nombre completo
   tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
-  avatar: profile.png # Colocar una imagen con tu foto de 100x100 pixels dentro de /assets/images
+  avatar: profile.jpeg # Colocar una imagen con tu foto de 100x100 pixels dentro de /assets/images
 
   # Actualiza tus datos de contacto
   email: alfreoalonso_alcaraz@ucol.mx
