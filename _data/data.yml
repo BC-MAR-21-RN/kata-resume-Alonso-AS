@@ -75,6 +75,11 @@ experiences:
     details: |
       An application software will be developed for the measurement
       of cognitive stress through a video camera.
+   - role: Intern
+    time: March, 2021 - June 2021
+    company: BrightCoders, React Native Mobile Developer
+    details: |
+      Mobile application development using the React Native Framework.
 
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
@@ -88,7 +93,10 @@ skills:
 
   toolset:
     - name: JavaScript
-      level: 20%
+      level: 45%
+      
+    - name: JavaScript
+      level: 30%
 
     - name: Arduino
       level: 40%
