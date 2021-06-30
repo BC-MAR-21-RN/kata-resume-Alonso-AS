@@ -92,8 +92,8 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
-    - name: JavaScript
-      level: 45%
+    - name: React Native
+      level: 40%
       
     - name: JavaScript
       level: 30%
